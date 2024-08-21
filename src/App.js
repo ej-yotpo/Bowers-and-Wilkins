@@ -20,6 +20,7 @@ function App() {
 
   //Product ID
   let ProductId = "";
+  mode-preview=true
 
   //Clipboard text here.
   let ClipBoardHeading = "Follow these steps to add this";
